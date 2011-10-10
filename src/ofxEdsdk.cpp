@@ -130,7 +130,7 @@ namespace ofxEdsdk {
 				 liveTexture.getHeight() != livePixels.getHeight()) {
 				liveTexture.allocate(livePixels.getWidth(), livePixels.getHeight(), GL_RGB8);
 			}
-			liveTexture.loadData(livePixels);
+//			liveTexture.loadData(livePixels);
 			lock();
 			liveDataReady = true;
 			unlock();

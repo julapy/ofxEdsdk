@@ -198,7 +198,7 @@ namespace Eds {
 			case kEdsPropID_MyMenu: return "kEdsPropID_MyMenu";
 				
 			case kEdsPropID_BatteryQuality: return "kEdsPropID_BatteryQuality";
-			case kEdsPropID_BodyIDEx: return "kEdsPropID_BodyIDEx";				
+//			case kEdsPropID_BodyIDEx: return "kEdsPropID_BodyIDEx";				
 			case kEdsPropID_HDDirectoryStructure: return "kEdsPropID_HDDirectoryStructure";
 				
 				
